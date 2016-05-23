@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  ShopCar
 //
-//  Created by SINOKJ on 16/5/23.
+//  Created by dyf on 16/5/23.
 //  Copyright © 2016年 Dyf. All rights reserved.
 //
 

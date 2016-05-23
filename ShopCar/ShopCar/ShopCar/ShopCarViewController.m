@@ -2,8 +2,8 @@
 //  CarViewController.m
 //  MobileBusiness
 //
-//  Created by 中嘉信诺 on 15/12/7.
-//  Copyright © 2015年 中嘉信诺. All rights reserved.
+//  Created by dyf on 15/12/7.
+//  Copyright © 2015年 dyf. All rights reserved.
 //
 
 #import "ShopCarViewController.h"

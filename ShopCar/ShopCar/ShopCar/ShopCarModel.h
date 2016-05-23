@@ -2,8 +2,8 @@
 //  ShopCarModel.h
 //  MobileBusiness
 //
-//  Created by SINOKJ on 16/5/20.
-//  Copyright © 2016年 中嘉信诺. All rights reserved.
+//  Created by dyf on 16/5/20.
+//  Copyright © 2016年 dyf. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
