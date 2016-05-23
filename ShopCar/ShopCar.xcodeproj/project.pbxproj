@@ -26,6 +26,12 @@
 		92FC1C381CF2E335008CB4CF /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = 92FC1C371CF2E335008CB4CF /* UIViewExt.m */; };
 		92FC1C3B1CF2E78E008CB4CF /* change_select.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C391CF2E78E008CB4CF /* change_select.png */; };
 		92FC1C3C1CF2E78E008CB4CF /* change_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C3A1CF2E78E008CB4CF /* change_selected.png */; };
+		92FC1C4F1CF2ED25008CB4CF /* edit_add.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C491CF2ED25008CB4CF /* edit_add.png */; };
+		92FC1C501CF2ED25008CB4CF /* edit_add@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C4A1CF2ED25008CB4CF /* edit_add@2x.png */; };
+		92FC1C511CF2ED25008CB4CF /* edit_add@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C4B1CF2ED25008CB4CF /* edit_add@3x.png */; };
+		92FC1C521CF2ED25008CB4CF /* edit_remove.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C4C1CF2ED25008CB4CF /* edit_remove.png */; };
+		92FC1C531CF2ED25008CB4CF /* edit_remove@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C4D1CF2ED25008CB4CF /* edit_remove@2x.png */; };
+		92FC1C541CF2ED25008CB4CF /* edit_remove@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FC1C4E1CF2ED25008CB4CF /* edit_remove@3x.png */; };
 		A440E40550B9F4FD99999338 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 22D6C9BE5DD17EDBC97944F5 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -81,6 +87,12 @@
 		92FC1C371CF2E335008CB4CF /* UIViewExt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
 		92FC1C391CF2E78E008CB4CF /* change_select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = change_select.png; sourceTree = "<group>"; };
 		92FC1C3A1CF2E78E008CB4CF /* change_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = change_selected.png; sourceTree = "<group>"; };
+		92FC1C491CF2ED25008CB4CF /* edit_add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = edit_add.png; sourceTree = "<group>"; };
+		92FC1C4A1CF2ED25008CB4CF /* edit_add@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "edit_add@2x.png"; sourceTree = "<group>"; };
+		92FC1C4B1CF2ED25008CB4CF /* edit_add@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "edit_add@3x.png"; sourceTree = "<group>"; };
+		92FC1C4C1CF2ED25008CB4CF /* edit_remove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = edit_remove.png; sourceTree = "<group>"; };
+		92FC1C4D1CF2ED25008CB4CF /* edit_remove@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "edit_remove@2x.png"; sourceTree = "<group>"; };
+		92FC1C4E1CF2ED25008CB4CF /* edit_remove@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "edit_remove@3x.png"; sourceTree = "<group>"; };
 		CE154F76AD2E5BCD29E33493 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -207,6 +219,12 @@
 		92FC1C351CF2E335008CB4CF /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				92FC1C491CF2ED25008CB4CF /* edit_add.png */,
+				92FC1C4A1CF2ED25008CB4CF /* edit_add@2x.png */,
+				92FC1C4B1CF2ED25008CB4CF /* edit_add@3x.png */,
+				92FC1C4C1CF2ED25008CB4CF /* edit_remove.png */,
+				92FC1C4D1CF2ED25008CB4CF /* edit_remove@2x.png */,
+				92FC1C4E1CF2ED25008CB4CF /* edit_remove@3x.png */,
 				92FC1C391CF2E78E008CB4CF /* change_select.png */,
 				92FC1C3A1CF2E78E008CB4CF /* change_selected.png */,
 				92FC1C361CF2E335008CB4CF /* UIViewExt.h */,
@@ -331,7 +349,13 @@
 			files = (
 				92FC1C2B1CF2E1E2008CB4CF /* check_n@2x.png in Resources */,
 				92FC1C3B1CF2E78E008CB4CF /* change_select.png in Resources */,
+				92FC1C531CF2ED25008CB4CF /* edit_remove@2x.png in Resources */,
+				92FC1C501CF2ED25008CB4CF /* edit_add@2x.png in Resources */,
+				92FC1C541CF2ED25008CB4CF /* edit_remove@3x.png in Resources */,
+				92FC1C521CF2ED25008CB4CF /* edit_remove.png in Resources */,
+				92FC1C511CF2ED25008CB4CF /* edit_add@3x.png in Resources */,
 				92FC1BFA1CF2E134008CB4CF /* LaunchScreen.storyboard in Resources */,
+				92FC1C4F1CF2ED25008CB4CF /* edit_add.png in Resources */,
 				92FC1C2F1CF2E1E2008CB4CF /* numbe_bg_icon@2x.png in Resources */,
 				92FC1C2C1CF2E1E2008CB4CF /* check_p@2x.png in Resources */,
 				92FC1BF71CF2E134008CB4CF /* Assets.xcassets in Resources */,

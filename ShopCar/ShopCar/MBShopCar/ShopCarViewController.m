@@ -215,12 +215,12 @@
     if (state != 0) {
 //        根据需要是否进行网络请求
 //        以下为操作失败 对数据进行回复
-                if (state == 1) {
-                    detailM.buyCount ++;
-                }else if (state == 2) {
-                    detailM.buyCount --;
-                }
-        
+//                if (state == 1) {
+//                    detailM.buyCount ++;
+//                }else if (state == 2) {
+//                    detailM.buyCount --;
+//                }
+//        
     
     }
     //计算总价
